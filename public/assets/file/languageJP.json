@@ -1,0 +1,173 @@
+{
+    "title" :[
+        {"title" : "賢いネイル" }
+    ]
+    
+    ,"menu" : [
+        {
+            "menu01" : "賢いネイル"
+            ,"menu02" : "ネイル予約"
+            ,"menu03" : "ギャラリー"
+            ,"menu04" : "Q&A"
+            ,"menu05" : "口コミ"
+        }
+    ]
+
+    ,"subMenu" : [
+        {
+            "subMenu01_01" : "ショップ紹介"
+            ,"subMenu01_02" : "アクセス"
+            ,"subMenu02_01" : "予約"
+            ,"subMenu02_02" : "予約確認"
+            ,"subMenu02_03" : "メニュ"
+            ,"subMenu03_01" : "準備中"
+        }
+    ]
+    ,"login" : [
+        {
+            "login_sign_up" : "入会"
+            ,"login_input_email" : "メールアドレス"
+            ,"login_input_password" : "パスワード"
+            ,"login_check_info01" : "ログイン情報の記録"
+            ,"login_check_info02" : "次回からは自動的にログインする"
+            ,"login_sign_in" : "ログイン"
+            ,"login_error_email_blank" : "メールアドレスをご記入ください。"
+            ,"login_error_email_string" : "メールアドレスは特殊文字は使用不可です。"
+            ,"login_error_email_not" : "正しいメールアドレスを入力してください。"
+            ,"login_error_email_unique" : "使用不可メールアドレスです。"
+            ,"login_error_password_blank" : "パスワードをご記入ください。"
+            ,"login_error_password_string" : "パスワードは特殊文字は使用不可です。"
+            ,"login_error_password_min" : "パスワードは8文字以上で入力してください。"
+            ,"login_error_password_confirm" : "パスワードが一致しません。"
+            ,"login_error_name_blank" : "名前をご記入ください。"
+            ,"login_error_name_string" : "名前は特殊文字は使用不可です。"
+            ,"login_error_name_max" : "名前は255文字以内で入力してください。"
+            ,"login_error_email_failed" : "ログインに失敗しました。</br>正しくご記入ください。"
+        }
+    ]
+    ,"join" : [
+        {
+            "join_title" : "入会"
+            ,"join_input_name" : "ニックネーム"
+            ,"join_input_email" : "メールアドレス"
+            ,"join_input_password" : "パスワード"
+            ,"join_sign_up" : "入力内容を確認する"
+            ,"join_required" : "必須"
+        }
+    ]
+
+    ,"joinError" : [
+        {
+            "join_error_name_blank" : "* ニックネームを入力してください"
+            ,"join_error_email_blank" : "* メールアドレスを入力してください"
+            ,"join_error_email_duplicate" : "* 指定されたメールアドレスはすでに登録されています"
+            ,"join_error_password_blank" : "* パスワードを入力してください"
+            ,"join_error_password_length" : "* パスワードは４文字以内で入力してください"
+        }
+    ]
+    ,"check" : [
+        {
+            "check_info" : "記入した内容を確認して、「登録」ボタンを押下してください。"
+            ,"check_input_name" : "ニックネーム"
+            ,"check_input_email" : "メールアドレス"
+            ,"check_input_password" : "パスワード"
+            ,"check_input_password_value" : "【表示されなせん】"
+            ,"check_rewirte" : "書き直す"
+            ,"check_regist" : "登録"
+        }
+    ]
+    ,"thanks" : [
+        {
+            "thanks_info" : "ユーザー登録が完了しました"
+            ,"thanks_login" : "ログインする"
+        }
+    ]
+    ,"review" : [
+        {
+            "review_info" : "メッセージをどうぞ"
+            ,"review_submit" : "投稿する"
+            ,"review_prev" : "前のページ"
+            ,"review_next" : "次のページ"
+            ,"review_delete" : "del"
+            ,"review_comment" : "会員のみ口コミ作成可能です。"
+        }
+    ]
+
+    ,"inquire" : [
+        {
+            "inquire_top_title" : "Q&#38;A"
+            ,"inquire_submit" : "登録"
+            ,"inquire_prev" : "前のページ"
+            ,"inquire_next" : "次のページ"
+            ,"inquire_title" : "タイトル"
+            ,"inquire_name" : "作成者"
+            ,"inquire_message" : "内容"
+            ,"inquire_cancel" : "キャンセル"
+            ,"inquire_change" : "変更"
+            ,"inquire_delete" : "削除"
+            ,"inquire_comment" : "会員のみコメント作成可能です。"
+            ,"inquire_error_title" : "タイトルを入力してください。"
+            ,"inquire_error_msg" : "内容を入力してください。"
+        }
+    ]
+    ,"info" : [
+        {
+            "info_title" : "賢いネイル"
+            ,"info_msg" : "仁川（韓国）にあるネイルショップです。</br>1人ショップなので100%予約制です。 </br>カカオプラス友達[<b>슬기로운네일</b>] で予約可能です。</br>"
+            ,"info_tel_msg" : "010-8327-0103"
+            ,"info_time_msg" : "平日：10:00 - 22:00</br>土曜日：10:00 - 22:00</br>定休日：日曜日、祝日</br>夜予約がない場合、早めに終了します。"
+        }
+    ]
+    ,"access" : [
+        {
+            "access_title" : "賢いネイル　アクセス"
+            ,"access_msg" : "三山市場にあるロハス文化センター２Fに位置する「賢いネイル」です"
+            ,"access_adress" : "7, Hujeongdong-ro 25beon-gil, Bupyeong-gu, Incheon, Republic of Korea"
+            ,"access_bus_title" : "最寄り駅、バス"
+        }
+    ]
+    ,"booking" : [
+        {
+            "booking_menu_title" : "メニュー"
+            ,"booking_menu" : "メニュー選択"
+            ,"booking_title" : "予約"
+            ,"booking_check_title" : "予約確認"
+            ,"booking_sel_next" : "次"
+            ,"booking_sel_error" : "メニュー選択を選択してください。"
+            ,"booking_type_hand" : "ハンド"
+            ,"booking_type_foot" : "フット"
+            ,"booking_type_off" : "オフ"
+            ,"booking_type_unit" : "円"
+            ,"booking_prev" : "先週"
+            ,"booking_now" : "今日"
+            ,"booking_next" : "来週"
+            ,"booking_insert" : "予約"
+            ,"booking_sel_menu" : "・選択メニュー"
+            ,"booking_sel_price" : "・総金額"
+            ,"booking_sel_date" : "・予約日付"
+            ,"booking_sel_time" : "・所要時間"
+            ,"booking_list_title" : "予約確認"
+            ,"booking_status_1" : "予約中"
+            ,"booking_status_2" : "済"
+            ,"booking_status_9" : "取消"
+        }
+    ]
+    ,"bookingOK" : [
+        {
+            "bookingOK_info" : "予約登録が完了しました"
+            ,"bookingOK_confirm" : "<b>予約</b>を確認する"
+        }
+    ]
+    ,"gallery" : [
+        {
+            "gallery_list_title" : "Gallery"
+            ,"gallery_submit" : "登録"
+            ,"gallery_title" : "タイトル"
+            ,"gallery_title_error" : "* titleを入力してください"
+            ,"gallery_image" : "イメージ"
+            ,"gallery_image_error" : "* 写真などは「.gif」または「.jpg」の画像を指定してください"
+            ,"gallery_prev" : "前のページ"
+            ,"gallery_next" : "次のページ"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+#title{
+    width:90%; 
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+}
+#buttonDiv{
+    text-align: center;
+    width:90%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+#viewTbl{
+    width: 90%;
+    margin:0 auto;
+    margin-bottom: 20px;
+}
+
+#viewTbl tr{
+    border-top: 1px solid RGB(227,227,227);
+    border-bottom: 1px solid RGB(227,227,227);
+}
+
+#viewTbl tr td{
+    padding: 10px 0;
+}
+#viewTbl tr td:nth-child(1){
+    padding-left: 10px;
+}
+
+
+#viewTbl tr:nth-child(2){
+    min-height: 300px;
+}
+
+textarea{
+    width: 90%;
+}

@@ -1,0 +1,29 @@
+#header{
+    width : 100%;
+    background-color: white;
+}
+
+#centent{
+    width : 100%;
+}
+
+button, input[type='submit'], input[type='button']{
+    background: none;
+    background-color: white;
+    border: 1px solid RGB(177,177,177);
+    border-radius: 12px;
+    padding: 5px 20px;
+}
+
+button:hover, input[type='submit']:hover, input[type='button']:hover{
+    color: orange;
+}
+
+.error{
+    color: crimson;
+}
+
+.footer{
+    width: 100%;
+    text-align: center;
+}
